@@ -58,3 +58,37 @@ docker images
 ```shell
 docker rmi [ImageID]
 ```
+
+## dockerの諸々の場所(linux)
+
+```
+/var/lib/docker
+```
+
+## docker関連でよく使うコマンド
+
+
+ログ見る
+
+```
+docker logs -f hoge
+```
+
+再起動
+
+```
+docker restart hoge
+```
+
+起動
+
+```
+docker start hoge
+```
+
+bashでもぐる
+
+
+```
+docker exec -it hoge /bin/bash
+```
