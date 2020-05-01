@@ -92,3 +92,20 @@ bashでもぐる
 ```
 docker exec -it hoge /bin/bash
 ```
+
+## Linux + postgresコンテナをシュッと作ってGoのプロジェクトのユニットテスト
+
+```
+docker run --privileged --name centos -d centos /sbin/init
+docker exec -ti centos bash
+yum install -y git
+yum install -y epel-release
+yum install -y golang
+yum install -y https://yum.postgresql.org/9.6/redhat/rhel-7-x86_64/pgdg-redhat96-9.6-3.noarch.rpm
+yum install -y postgresql96-server postgresql96-contrib
+PGDATA=/var/lib/pgsql/data /usr/pgsql-9.6/bin/postgresql96-setup initdb
+systemctl start postgresql-9.6.service
+git clone [repo url]
+cd [repo]
+go test ./..
+```

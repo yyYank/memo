@@ -13,6 +13,8 @@ weight: 100
 gf
 ```
 
+gfはgoto fileの略
+
 ## vsplitしてファイルパスジャンプ
 
 ```
