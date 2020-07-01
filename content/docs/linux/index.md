@@ -5,7 +5,7 @@ draft: true
 ---
 
 
-想定としてはubuntu、archなど。
+想定としてはubuntu、archなど。コマンドはmacでも使えるかも
 
 
 ## port使っているやつを見つける
