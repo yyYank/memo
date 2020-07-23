@@ -16,3 +16,9 @@ git branch --merged|egrep -v '\*|develop|master'|xargs git branch -d
 ```
 git commit --amend --author="name <hoge@gmail.com>"
 ```
+
+## gitのremote urlをhttpsからsshに変更したい
+
+```
+git remote set-url origin git@github.com:{repository_owner}/{repository_name}.git
+```

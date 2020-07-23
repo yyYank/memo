@@ -26,7 +26,7 @@ brew install hugo
 - install theme
 
 ```
-git clone https://github.com/jugglerx/hugo-whisper-theme.git themes/hugo-whisper-theme
+git submodule update
 ```
 
 
