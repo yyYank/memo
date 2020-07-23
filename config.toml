@@ -1,6 +1,6 @@
 baseURL = "/"
-languageCode = "en-us"
-title = "Hugo Whisper Theme"
+languageCode = "en-ja"
+title = "yankなぺーじ"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
@@ -15,7 +15,7 @@ summaryLength = 30
 [[menu.main]]
     name = "Home"
     url = "/"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     name = "Docs"
@@ -25,22 +25,22 @@ summaryLength = 30
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
+  homepage_button_text = 'やんくのメモをみてみる'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
 
   ## You can enable to add anchor links to header elements
-  # enable_anchor_link = true
+  enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "yy_yankのなんかのドキュメント"
+    meta_og_title = "yankなぺーじ"
     meta_og_type = "website"
     meta_og_url = "https://hugo-whisper.netlify.com"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_description = "yy_yankのなんかのドキュメント"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@yy_yank"
+    meta_twitter_creator = "@yy_yank"
 
   [params.logo]
       mobile = "/images/logo-mobile.svg"
