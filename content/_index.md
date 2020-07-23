@@ -18,6 +18,10 @@ TBA
                      
 Java, Kotlin, Go
 
+### Twitter</span></h3>
+
+###### [@yy_yank](https://twitter.com/yy_yank)
+
 ### GitHub
 
 ##### https://github.com/yyYank
@@ -49,14 +53,10 @@ Java, Kotlin, Go
 ###### [VMの歩む道。 Dalvik、ART、そしてJava VM](https://www.slideshare.net/yyyank/vm-dalvikartjava-vm)
 ###### [Javaプログラマのための頑張らないGo入門](https://www.slideshare.net/yyyank/javago)
 
-### Twitter</span></h3>
-
-@yy_yank(https://twitter.com/yy_yank)
-
 
 ### Site
                      
-###### [逆引きKotlin](http://kotlin-rev-solution.herokuapp.com/)
+###### [逆引きKotlin](https://kotlin-rev-solution.herokuapp.com/)
 ###### [memo](./docs)
                      
 ### Library

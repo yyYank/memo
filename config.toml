@@ -13,12 +13,12 @@ pygmentsUseClasses = true
 summaryLength = 30
 
 [[menu.main]]
-    name = "Home"
+    name = "Profile(about me)"
     url = "/"
     weight = 2
 
 [[menu.main]]
-    name = "Docs"
+    name = "MEMO"
     url = "/docs/"
     weight = 2
 
