@@ -12,7 +12,7 @@ Japanese 'Yurufuwa' Programmer.
 
 ### Organization
 
-TBA
+FORCAS Co., Ltd.
 
 ### Like 
                      
