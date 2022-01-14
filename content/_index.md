@@ -12,7 +12,7 @@ Japanese 'Yurufuwa' Programmer.
 
 ### Organization
 
-FORCAS Co., Ltd.
+UZABASE Inc.
 
 ### Like 
                      
@@ -52,7 +52,8 @@ Java, Kotlin, Go
 ###### [Jvm言語とJava、切っても切れないその関係](https://www.slideshare.net/yyyank/jvmjava-69784006)
 ###### [VMの歩む道。 Dalvik、ART、そしてJava VM](https://www.slideshare.net/yyyank/vm-dalvikartjava-vm)
 ###### [Javaプログラマのための頑張らないGo入門](https://www.slideshare.net/yyyank/javago)
-
+###### [サーバーサイドKotlinという選択肢とユーザベース](https://speakerdeck.com/yyyank/sabasaidokotlintoiuxuan-ze-zhi-toyuzabesu)
+###### [Debeziumで変更データキャプチャを学ぼう #jjug_ccc](https://speakerdeck.com/yyyank/debeziumdebian-geng-detakiyaputiyawoxue-bou-number-jjug-ccc)
 
 ### Site
                      
