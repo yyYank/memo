@@ -39,21 +39,21 @@ Java, Kotlin, Go
 
 ### Slide
 
-###### [Server Side Kotlin](https://www.slideshare.net/yyyank/server-side-kotlin-49030491)  
-###### [Kotlinメジャーver リリースを前に](https://www.slideshare.net/yyyank/kotlinver)
-###### [【こっそり始める】Javaプログラマコーディングマイグレーション](https://www.slideshare.net/yyyank/java-55600699)
-###### [Kotlinあるある言いたい](https://www.slideshare.net/yyyank/kotlin-58781668)
-###### [Kotlinこんなん出ましたけど](https://www.slideshare.net/yyyank/kotlin-60377622)
-###### [絶対にぬるぽを出さない](https://www.slideshare.net/yyyank/ss-62257220)
-###### [Doma2 with Kotlin](https://www.slideshare.net/yyyank/doma2-with-kotlin)
-###### [KuromojiをKotlinで動かす](https://www.slideshare.net/yyyank/kuromojikotlin)
-###### [Javaで最強のfizz buzz](https://www.slideshare.net/yyyank/javafizz-buzz)
-###### [Kotlinソースコード探訪](https://www.slideshare.net/yyyank/kotlin-69542943)
-###### [Jvm言語とJava、切っても切れないその関係](https://www.slideshare.net/yyyank/jvmjava-69784006)
-###### [VMの歩む道。 Dalvik、ART、そしてJava VM](https://www.slideshare.net/yyyank/vm-dalvikartjava-vm)
-###### [Javaプログラマのための頑張らないGo入門](https://www.slideshare.net/yyyank/javago)
-###### [サーバーサイドKotlinという選択肢とユーザベース](https://speakerdeck.com/yyyank/sabasaidokotlintoiuxuan-ze-zhi-toyuzabesu)
-###### [Debeziumで変更データキャプチャを学ぼう #jjug_ccc](https://speakerdeck.com/yyyank/debeziumdebian-geng-detakiyaputiyawoxue-bou-number-jjug-ccc)
+ - [Server Side Kotlin](https://www.slideshare.net/yyyank/server-side-kotlin-49030491)  
+ - [Kotlinメジャーver リリースを前に](https://www.slideshare.net/yyyank/kotlinver)
+ - [【こっそり始める】Javaプログラマコーディングマイグレーション](https://www.slideshare.net/yyyank/java-55600699)
+ - [Kotlinあるある言いたい](https://www.slideshare.net/yyyank/kotlin-58781668)
+ - [Kotlinこんなん出ましたけど](https://www.slideshare.net/yyyank/kotlin-60377622)
+ - [絶対にぬるぽを出さない](https://www.slideshare.net/yyyank/ss-62257220)
+ - [Doma2 with Kotlin](https://www.slideshare.net/yyyank/doma2-with-kotlin)
+ - [KuromojiをKotlinで動かす](https://www.slideshare.net/yyyank/kuromojikotlin)
+ - [Javaで最強のfizz buzz](https://www.slideshare.net/yyyank/javafizz-buzz)
+ - [Kotlinソースコード探訪](https://www.slideshare.net/yyyank/kotlin-69542943)
+ - [Jvm言語とJava、切っても切れないその関係](https://www.slideshare.net/yyyank/jvmjava-69784006)
+ - [VMの歩む道。 Dalvik、ART、そしてJava VM](https://www.slideshare.net/yyyank/vm-dalvikartjava-vm)
+ - [Javaプログラマのための頑張らないGo入門](https://www.slideshare.net/yyyank/javago)
+ - [サーバーサイドKotlinという選択肢とユーザベース](https://speakerdeck.com/yyyank/sabasaidokotlintoiuxuan-ze-zhi-toyuzabesu)
+ - [Debeziumで変更データキャプチャを学ぼう #jjug_ccc](https://speakerdeck.com/yyyank/debeziumdebian-geng-detakiyaputiyawoxue-bou-number-jjug-ccc)
 
 ### Site
                      
